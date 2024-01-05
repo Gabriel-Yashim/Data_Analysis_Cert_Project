@@ -1,0 +1,7 @@
+Covid-19 Insights Analysis is one of the most popular Power BI project ideas among individuals. The project aims to thoroughly overview the Covid-19 pandemic's essential parameters, the latest situation, and detailed country-level evaluations. You can create a dashboard that gives valuable information regarding cases (active, deceased, or recovered), mortality, and recovery rates by nation and timeframe. Also, the dashboard might even include a management summary of the most important KPIs and a thorough analysis of individual report pages.
+. As for the Power BI data visualization features, you can use- Bar Charts, Point Maps, Line Charts, and Column Charts for the overview page; Doughnut Charts for category-wise case analysis; and Decomposition Trees for country-wise case analysis. You might also use Heat Maps to enhance your project’s dashboard visualization.
+
+
+As a Data analyst, you’re required to carry out basic data cleaning and transformation first before analyzing the data using appropriate charts. Provide recommendations and insights from the DATA moving forward based on your analysis. Hint: While carrying out the data cleaning, ensure calculations included in your data were performed correctly.
+
+GOODLUCK!!!!!!

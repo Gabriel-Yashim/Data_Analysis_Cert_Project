@@ -1,0 +1,28 @@
+YOU ARE WELCOME STARTECHONE STUDENTS, HERE IS YOUR CAPTAIN SPEAKING!
+the data set is being attached to the files being sent.
+you are to perform the following task on the data.
+
+1.perform a frequency count on your qualitative variables
+2.perform a descriptive analyses of the following (a) sales b) price c) fuel capacity
+3. check the relationship between your numerical variables
+4. perform a one sample t-test on (sale column) with the hypothesized mean of 100
+5. perform an independent sample t-test on (price)*
+6. perform a crosstabulation of your data
+7. perform a chi-square test.
+8. output 7 different visualization from your data
+9. explore your data
+10. Do ANOVA on any of your quantitative variable*
+11. perform a normality test on your numerical variables
+12. perform a multi-collinearity test on  your variables
+13. Run a linear regression with fuel capacity, MPG, horse power to predict the price of a car.
+
+
+
+REPORT ALL YOUR FINDINGS IN A CLEAR TERMS.
+
+THE ACCEPTABLE FORMAT WILL A PDF FORMAT.
+
+
+GOODLUCK!!!!!!
+
+TEMIDAYO
